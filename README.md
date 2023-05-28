@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shadie-black
-- 👀 I’m interested in cloud computing, IAAS,Devops.
-- 🌱 I’m currently learning Azure Devops
-- 💞️ I’m looking to collaborate on automating infrastrucutre deployment in cloud
+- 👀 I’m interested in cloud computing, Devops methodologies and tools.
+- 🌱 I’m currently a Devops Engineer.
+- 💞️ I am proficient in integrating DevOps culture to automate the software life cycle.
 - 📫 shadeadeyokunnu@gmail.com
 
 <!---
